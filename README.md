@@ -128,6 +128,12 @@
 
 <br />
 
+
+<div align="center">
+  <h3><font color="#E4C1F9" face="Georgia">✨ <i>Isometric Contribution Skyline</i> ✨</font></h3>
+  <img src="https://github-profile-3d-contrib.puzzle33.com/images/Chelleming.svg" width="100%" />
+</div>
+
 <!-- ACTIVITY DASHBOARD / STATS CARDS -->
 <h3 align="center">
   <font color="#D0F4DE" face="Georgia">📊 <i>Activity Dashboard</i> 📊</font>
