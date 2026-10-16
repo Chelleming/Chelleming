@@ -1,151 +1,148 @@
+<!-- ✨ TOP WAVING BANNER ✨ -->
 <div align="center">
-
-  <!-- TOP HEADER BANNER (Mauve #E4C1F9) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E4C1F9&height=200&section=header&text=✨%20ROCHELLE%20MAE%20BARDAJE%20✨&fontSize=42&fontColor=2D1F25&animation=twinkle&fontAlignY=38" width="100%" />
-
-  <!-- DYNAMIC TYPING HEADER (Baby Pink #FF99C8 Accent) -->
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&pause=1000&color=FF99C8&center=true&vCenter=true&width=550&height=50&lines=Full-Stack+Web+%26+Desktop+Software+Developer;Crafting+Clean+Architecture+%26+Soft+UI%2FUX+Design;Specializing+in+React%2C+Node.js%2C+C%23+%26+Python" alt="Typing Header" />
-  </a>
-
-  <br />
-
-  <!-- CONNECT BADGES (Frosted Mint #D0F4DE Background with Mauve Text) -->
-  <p align="center">
-    <a href="https://github.com/Chelleming">
-      <img src="https://img.shields.io/badge/GitHub-D0F4DE?style=for-the-badge&logo=github&logoColor=2D1F25" />
-    </a>
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-D0F4DE?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-    </a>
-    <a href="mailto:your-email@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D0F4DE?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-    </a>
-  </p>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E4C1F9&height=230&section=header&text=%E2%9C%A8%20ROCHELLE%20MAE%20BARDAJE%20%E2%9C%A8&fontSize=38&fontColor=2D1F25&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=60" width="100%" alt="Rochelle Mae Bardaje banner" />
 </div>
 
-<br />
+<!-- 💬 TYPING HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&duration=3500&pause=1000&color=FF99C8&center=true&vCenter=true&width=760&height=60&lines=Hi%2C+I'm+Chelle+%E2%9C%A8;Full-Stack+Developer+%26+IT+Student;Crafting+clean+web+%26+desktop+apps;Soft+UI%2FUX+%E2%80%A2+Robust+Architecture" alt="Typing animation" />
+</div>
 
-<!-- ABOUT ME CARD -->
-<table width="100%">
+<!-- 💌 CONTACT & SOCIAL BADGES -->
+<div align="center">
+  <a href="https://github.com/Chelleming"><img src="https://img.shields.io/badge/GitHub-Chelleming-D0F4DE?style=for-the-badge&logo=github&logoColor=2D1F25&labelColor=161b22" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-D0F4DE?style=for-the-badge&logo=linkedin&logoColor=2D1F25&labelColor=161b22" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D0F4DE?style=for-the-badge&logo=gmail&logoColor=2D1F25&labelColor=161b22" alt="Email" /></a>
+  <br/>
+  <a href="https://www.facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/Facebook-Follow-D0F4DE?style=for-the-badge&logo=facebook&logoColor=2D1F25&labelColor=161b22" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-Follow-D0F4DE?style=for-the-badge&logo=instagram&logoColor=2D1F25&labelColor=161b22" alt="Instagram" /></a>
+  <a href="https://www.threads.net/@YOUR-THREADS"><img src="https://img.shields.io/badge/Threads-Follow-D0F4DE?style=for-the-badge&logo=threads&logoColor=2D1F25&labelColor=161b22" alt="Threads" /></a>
+</div>
+
+<br/>
+
+<!-- 🌸 ABOUT ME -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF99C8&height=90&text=%F0%9F%8C%B8%20About%20Me&fontSize=28&fontColor=2D1F25&fontAlign=50&fontAlignY=50" alt="About Me" />
+</div>
+
+<table align="center" width="100%">
   <tr>
-    <td bgcolor="#161b22">
-      <h3 align="center">
-        <font color="#E4C1F9" face="Georgia">🎀 <i>About Me</i> 🎀</font>
-      </h3>
-      <p align="center">
-        <font color="#e6edf3" size="3">
-          I am an <b>Information Technology Student & Full-Stack Developer</b> focused on engineering robust web applications, desktop systems, and efficient database architectures with modern user-centric interfaces.
-        </font>
-      </p>
-      <ul>
-        <li>⚡ <b>Primary Expertise:</b> Full-stack web systems, desktop software engineering, and database management.</li>
-        <li>💻 <b>Core Tech Stack:</b> React, Vite, Node.js, Express, C#, Python, MySQL, and MongoDB.</li>
-        <li>💡 <b>Special Interests:</b> Computer vision integration, process automation, and soft glassmorphism UI/UX design.</li>
-      </ul>
+    <td align="center">
+      <br/>
+      <i><font face="Georgia" size="4">
+        Hello! I'm <b>Chelle</b>, an Information Technology student and full-stack developer<br/>
+        who loves turning complex ideas into clean, thoughtful software.<br/><br/>
+        I build web and desktop applications with <b>robust architecture</b> and <b>soft, intuitive UI/UX</b>,<br/>
+        from document tracking platforms to facial-recognition voting systems<br/>
+        and hand-tracking projects powered by Arduino and computer vision.<br/><br/>
+        💗 I believe great software can be both <b>powerful</b> and <b>beautiful</b>.
+      </font></i>
+      <br/><br/>
     </td>
   </tr>
 </table>
 
-<br />
+<br/>
 
-<!-- TECH STACK SECTION (Palette Badges) -->
+<!-- 💻 TECH ECOSYSTEM -->
 <div align="center">
-  <h3>
-    <font color="#FEC8C3" face="Georgia">⚡ <i>Tech Ecosystem & Skills</i> ⚡</font>
-  </h3>
-
-  <!-- Row 1: Languages & Frontend -->
-  <p>
-    <img src="https://img.shields.io/badge/React-FF99C8?style=for-the-badge&logo=react&logoColor=2D1F25" />
-    <img src="https://img.shields.io/badge/Vite-E4C1F9?style=for-the-badge&logo=vite&logoColor=2D1F25" />
-    <img src="https://img.shields.io/badge/Node.js-D0F4DE?style=for-the-badge&logo=nodedotjs&logoColor=2D1F25" />
-    <img src="https://img.shields.io/badge/Express-FCF6BD?style=for-the-badge&logo=express&logoColor=2D1F25" />
-    <img src="https://img.shields.io/badge/C%23-FEC8C3?style=for-the-badge&logo=csharp&logoColor=2D1F25" />
-    <img src="https://img.shields.io/badge/Python-E4C1F9?style=for-the-badge&logo=python&logoColor=2D1F25" />
-  </p>
-
-  <!-- Row 2: Databases & Tools -->
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-FCF6BD?style=for-the-badge&logo=mysql&logoColor=2D1F25" />
-    <img src="https://img.shields.io/badge/MongoDB-D0F4DE?style=for-the-badge&logo=mongodb&logoColor=2D1F25" />
-    <img src="https://img.shields.io/badge/VS_Code-FF99C8?style=for-the-badge&logo=visualstudiocode&logoColor=2D1F25" />
-    <img src="https://img.shields.io/badge/Docker-E4C1F9?style=for-the-badge&logo=docker&logoColor=2D1F25" />
-    <img src="https://img.shields.io/badge/Git-FEC8C3?style=for-the-badge&logo=git&logoColor=2D1F25" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FEC8C3&height=90&text=%F0%9F%92%BB%20Tech%20Ecosystem&fontSize=28&fontColor=2D1F25&fontAlign=50&fontAlignY=50" alt="Tech Ecosystem" />
 </div>
 
-<br />
+<div align="center">
 
-<!-- SPOTLIGHT PROJECTS SECTION -->
-<h3 align="center">
-  <font color="#FCF6BD" face="Georgia">🚀 <i>Spotlight Projects</i> 🚀</font>
-</h3>
+**Languages & Frameworks**<br/>
+<img src="https://img.shields.io/badge/React-E4C1F9?style=for-the-badge&logo=react&logoColor=2D1F25" alt="React" />
+<img src="https://img.shields.io/badge/Vite-FF99C8?style=for-the-badge&logo=vite&logoColor=2D1F25" alt="Vite" />
+<img src="https://img.shields.io/badge/Node.js-FEC8C3?style=for-the-badge&logo=nodedotjs&logoColor=2D1F25" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-FCF6BD?style=for-the-badge&logo=express&logoColor=2D1F25" alt="Express" />
+<img src="https://img.shields.io/badge/JavaScript-D0F4DE?style=for-the-badge&logo=javascript&logoColor=2D1F25" alt="JavaScript" />
+<br/>
+<img src="https://img.shields.io/badge/C%23-E4C1F9?style=for-the-badge&logo=csharp&logoColor=2D1F25" alt="C#" />
+<img src="https://img.shields.io/badge/Python-FF99C8?style=for-the-badge&logo=python&logoColor=2D1F25" alt="Python" />
+<img src="https://img.shields.io/badge/Tkinter-FEC8C3?style=for-the-badge&logo=python&logoColor=2D1F25" alt="Tkinter" />
 
-<table>
+**Databases**<br/>
+<img src="https://img.shields.io/badge/MySQL-FCF6BD?style=for-the-badge&logo=mysql&logoColor=2D1F25" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-D0F4DE?style=for-the-badge&logo=mongodb&logoColor=2D1F25" alt="MongoDB" />
+<img src="https://img.shields.io/badge/HeidiSQL-E4C1F9?style=for-the-badge&logoColor=2D1F25" alt="HeidiSQL" />
+<img src="https://img.shields.io/badge/DBeaver-FF99C8?style=for-the-badge&logo=dbeaver&logoColor=2D1F25" alt="DBeaver" />
+<img src="https://img.shields.io/badge/XAMPP-FEC8C3?style=for-the-badge&logo=xampp&logoColor=2D1F25" alt="XAMPP" />
+
+**Tools & Hardware**<br/>
+<img src="https://img.shields.io/badge/VS%20Code-FCF6BD?style=for-the-badge&logo=visualstudiocode&logoColor=2D1F25" alt="VS Code" />
+<img src="https://img.shields.io/badge/Visual%20Studio-D0F4DE?style=for-the-badge&logo=visualstudio&logoColor=2D1F25" alt="Visual Studio" />
+<img src="https://img.shields.io/badge/Docker-E4C1F9?style=for-the-badge&logo=docker&logoColor=2D1F25" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-FF99C8?style=for-the-badge&logo=git&logoColor=2D1F25" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-FEC8C3?style=for-the-badge&logo=github&logoColor=2D1F25" alt="GitHub" />
+<br/>
+<img src="https://img.shields.io/badge/Arduino-FCF6BD?style=for-the-badge&logo=arduino&logoColor=2D1F25" alt="Arduino" />
+<img src="https://img.shields.io/badge/OpenCV-D0F4DE?style=for-the-badge&logo=opencv&logoColor=2D1F25" alt="OpenCV" />
+<img src="https://img.shields.io/badge/MediaPipe-E4C1F9?style=for-the-badge&logo=google&logoColor=2D1F25" alt="MediaPipe" />
+
+</div>
+
+<br/>
+
+<!-- 🎀 FEATURED PROJECTS -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF99C8&height=90&text=%F0%9F%8E%80%20Featured%20Projects&fontSize=28&fontColor=2D1F25&fontAlign=50&fontAlignY=50" alt="Featured Projects" />
+</div>
+
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top" bgcolor="#161b22">
-      <h4 align="center"><font color="#FF99C8">📂 Document Tracking System</font></h4>
-      <p><font color="#d0d7de">An administrative document tracking platform featuring digital signatures, role-based access control, and complete audit trail logging.</font></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-FF99C8?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-D0F4DE?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/MySQL-FCF6BD?style=flat-square&logoColor=black" />
-      </p>
+    <td width="50%" align="center" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=FEC8C3&height=140&text=Document%20Tracking%20System&fontSize=20&fontColor=2D1F25&fontAlign=50&fontAlignY=38&desc=Digital%20signatures%20%26%20audit%20logs&descSize=14&descAlignY=62" alt="Administrative Document Tracking System: document tracking platform with digital signatures and audit logs" /><br/>
+      <img src="https://img.shields.io/badge/React-E4C1F9?style=flat-square&labelColor=161b22" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-FF99C8?style=flat-square&labelColor=161b22" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-FEC8C3?style=flat-square&labelColor=161b22" alt="Express" />
+      <img src="https://img.shields.io/badge/MySQL-FCF6BD?style=flat-square&labelColor=161b22" alt="MySQL" />
     </td>
-    <td width="50%" valign="top" bgcolor="#161b22">
-      <h4 align="center"><font color="#FCF6BD">🏡 BoardSmart Rental App</font></h4>
-      <p><font color="#d0d7de">A web-based boarding house rental management application designed with automated tenant onboarding and structured system workflows.</font></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-FF99C8?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/Express-FCF6BD?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/Architecture-E4C1F9?style=flat-square&logoColor=black" />
-      </p>
+    <td width="50%" align="center" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=FEC8C3&height=140&text=BoardSmart%20Rental%20App&fontSize=20&fontColor=2D1F25&fontAlign=50&fontAlignY=38&desc=Boarding%20house%20rental%20management&descSize=14&descAlignY=62" alt="BoardSmart Rental App: web-based boarding house rental management system" /><br/>
+      <img src="https://img.shields.io/badge/React-E4C1F9?style=flat-square&labelColor=161b22" alt="React" />
+      <img src="https://img.shields.io/badge/Express-FF99C8?style=flat-square&labelColor=161b22" alt="Express" />
+      <img src="https://img.shields.io/badge/System%20Architecture-D0F4DE?style=flat-square&labelColor=161b22" alt="System Architecture" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" bgcolor="#161b22">
-      <h4 align="center"><font color="#E4C1F9">🗳️ FaceVote Recognition System</font></h4>
-      <p><font color="#d0d7de">A client-server voting application built with C# and integrated with Python-based facial recognition for secure voter verification.</font></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-FEC8C3?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/Python-E4C1F9?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/OpenCV-D0F4DE?style=flat-square&logoColor=black" />
-      </p>
+    <td width="50%" align="center" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=FEC8C3&height=140&text=FaceVote%20Recognition%20System&fontSize=20&fontColor=2D1F25&fontAlign=50&fontAlignY=38&desc=Voting%20with%20facial%20recognition&descSize=14&descAlignY=62" alt="FaceVote Recognition System: client-server voting platform with facial recognition verification" /><br/>
+      <img src="https://img.shields.io/badge/C%23-E4C1F9?style=flat-square&labelColor=161b22" alt="C#" />
+      <img src="https://img.shields.io/badge/Python-FF99C8?style=flat-square&labelColor=161b22" alt="Python" />
+      <img src="https://img.shields.io/badge/OpenCV-FCF6BD?style=flat-square&labelColor=161b22" alt="OpenCV" />
     </td>
-    <td width="50%" valign="top" bgcolor="#161b22">
-      <h4 align="center"><font color="#D0F4DE">🤖 Vision & Hardware Automation</font></h4>
-      <p><font color="#d0d7de">Real-time computer vision applications utilizing MediaPipe hand tracking, Python desktop GUIs, and microcontroller hardware scripts.</font></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MediaPipe-FF99C8?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tkinter-FEC8C3?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/Arduino-D0F4DE?style=flat-square&logoColor=black" />
-      </p>
+    <td width="50%" align="center" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=FEC8C3&height=140&text=Computer%20Vision%20%26%20Automation&fontSize=20&fontColor=2D1F25&fontAlign=50&fontAlignY=38&desc=Hand%20tracking%20%26%20Arduino%20scripts&descSize=14&descAlignY=62" alt="Computer Vision and Hardware Automation: hand tracking applications and microcontroller automation scripts" /><br/>
+      <img src="https://img.shields.io/badge/Python-FF99C8?style=flat-square&labelColor=161b22" alt="Python" />
+      <img src="https://img.shields.io/badge/MediaPipe-E4C1F9?style=flat-square&labelColor=161b22" alt="MediaPipe" />
+      <img src="https://img.shields.io/badge/Arduino-FCF6BD?style=flat-square&labelColor=161b22" alt="Arduino" />
     </td>
   </tr>
 </table>
 
-<br />
+<br/>
 
+<!-- 📊 ACTIVITY DASHBOARD -->
 <div align="center">
-  <h3><font color="#FF99C8" face="Georgia">🌸 <i>Coding Activity Wave</i> 🌸</font></h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chelleming&bg_color=161b22&color=FF99C8&line=E4C1F9&point=D0F4DE&area=true&hide_border=true" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FEC8C3&height=90&text=%F0%9F%93%8A%20Activity%20Dashboard&fontSize=28&fontColor=2D1F25&fontAlign=50&fontAlignY=50" alt="Activity Dashboard" />
 </div>
 
-<!-- ACTIVITY DASHBOARD / STATS CARDS -->
-<h3 align="center">
-  <font color="#D0F4DE" face="Georgia">📊 <i>Activity Dashboard</i> 📊</font>
-</h3>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chelleming&show_icons=true&theme=synthwave&hide_border=true&title_color=FF99C8&icon_color=E4C1F9&text_color=e6edf3&bg_color=161b22" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chelleming&theme=synthwave&hide_border=true&background=161b22&ring=D0F4DE&fire=FF99C8&currStreakLabel=FCF6BD" width="48%" />
+  <img src="https://github-profile-3d-contrib.puzzle33.com/images/Chelleming.svg" width="100%" alt="3D contribution graph" />
 </div>
 
-<br />
+<br/>
 
-<!-- FOOTER WAVE (Frosted Mint #D0F4DE) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D0F4DE&height=120&section=footer" width="100%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chelleming&show_icons=true&hide_border=true&bg_color=FEC8C3&title_color=2D1F25&icon_color=2D1F25&text_color=2D1F25&ring_color=FF99C8&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Chelleming&hide_border=true&background=FEC8C3&ring=FF99C8&fire=FF99C8&currStreakNum=2D1F25&currStreakLabel=2D1F25&sideNums=2D1F25&sideLabels=2D1F25&dates=2D1F25" alt="GitHub streak" />
+</div>
+
+<br/>
+
+<!-- 🌊 FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D0F4DE&height=140&section=footer&reversal=true&text=Thanks%20for%20visiting%20%F0%9F%92%97&fontSize=22&fontColor=2D1F25&fontAlignY=65&animation=twinkling" width="100%" alt="Footer wave" />
 </div>
