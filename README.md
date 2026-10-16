@@ -23,7 +23,8 @@
 
 <!-- 🌸 ABOUT ME -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF99C8&height=90&text=%F0%9F%8C%B8%20About%20Me&fontSize=28&fontColor=2D1F25&fontAlign=50&fontAlignY=50" alt="About Me" />
+     <img src="assets/banner.svg" width="100%" alt="Rochelle Mae Bardaje banner"/>
+  type=soft&color=FF99C8&height=90&text=%F0%9F%8C%B8%20About%20Me&fontSize=28&fontColor=2D1F25&fontAlign=50&fontAlignY=50" alt="About Me" />
 </div>
 
 <table align="center" width="100%">
