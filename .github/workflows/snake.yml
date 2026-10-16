@@ -1,0 +1,27 @@
+name: Generate Pink Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: platane/snk@v3
+        with:
+          github_user_name: Chelleming
+          outputs: |
+            assets/github-contribution-grid-snake.svg?color_snake=#FF99C8&color_dots=#181824,#B5E3F5,#F4B8D0,#FF99C8,#FFFDF7
+            assets/github-contribution-grid-snake-dark.svg?color_snake=#FF99C8&color_dots=#181824,#B5E3F5,#F4B8D0,#FF99C8,#FFFDF7
+      - name: Push Snake SVG to Repository
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
