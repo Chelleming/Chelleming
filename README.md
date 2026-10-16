@@ -128,10 +128,9 @@
 
 <br />
 
-
 <div align="center">
-  <h3><font color="#E4C1F9" face="Georgia">✨ <i>Isometric Contribution Skyline</i> ✨</font></h3>
-  <img src="https://github-profile-3d-contrib.puzzle33.com/images/Chelleming.svg" width="100%" />
+  <h3><font color="#FF99C8" face="Georgia">🌸 <i>Coding Activity Wave</i> 🌸</font></h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chelleming&bg_color=161b22&color=FF99C8&line=E4C1F9&point=D0F4DE&area=true&hide_border=true" width="100%" />
 </div>
 
 <!-- ACTIVITY DASHBOARD / STATS CARDS -->
