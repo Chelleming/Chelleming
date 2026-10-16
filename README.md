@@ -165,12 +165,7 @@ an Information Technology student who loves the logic behind the scenes:<br/>
 
 <br/>
 
-<!-- 🧊 3D CONTRIBUTION GRAPH 🧊 -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chelleming/Chelleming/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
-</div>
 
-<br/>
 
 <!-- 🌊 FOOTER -->
 <div align="center">
