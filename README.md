@@ -154,6 +154,13 @@ an Information Technology student who loves the logic behind the scenes:<br/>
 
 <br/>
 
+<!-- 💗 PINK CONTRIBUTION ANIMATION 💗 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chelleming/Chelleming/output/github-contribution-grid-snake-dark.svg" alt="Pink Contribution Animation" width="100%" />
+</div>
+
+<br/>
+
 <!-- 🌊 FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F4B8D0&height=140&section=footer&reversal=true&text=thanks%20for%20visiting%20%E2%99%A1&fontSize=24&fontColor=FFFDF7&fontAlignY=65" width="100%" alt="Fresh footer wave" />
